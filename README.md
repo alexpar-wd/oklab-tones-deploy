@@ -48,6 +48,7 @@
         - Color Picker [react-colorful](https://www.npmjs.com/package/react-colorful) c настройкой его отображения
         - смена тем (светлая и темная)
         - переключение языков с использованием [react-i18next](https://www.npmjs.com/package/react-i18next)
+        - копирование цвета оттенка в буфер обмена
     - подключение использования [Redux Toolkit](https://www.npmjs.com/package/@reduxjs/toolkit) для сохранения состояний
     - адаптивная верстка для компьютера и мобильного устройства (брейкпоинт **768px**)
     - добавление гамбургер-меню для мобильного устройства
