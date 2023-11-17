@@ -1,4 +1,4 @@
-# Пет-проект: "OklabTones"
+# Пет-проект: "OklabTones" (версия для деплоя на render.com)
 
 ![Стартовый экран сайта](https://github.com/alexpar-wd/oklch-tones/assets/147814350/102474f0-b738-4500-8900-10673a44f3ba)
 
@@ -8,7 +8,7 @@
 
 Выбор цвета (Color Picker) сформирован на основе "[react-colorful](https://www.npmjs.com/package/react-colorful)".
 
-Деплой: ![https://oklabtones.onrender.com](https://oklabtones.onrender.com)
+Деплой: [https://oklabtones.onrender.com](https://oklabtones.onrender.com)
 
 ## 2. Стек технологий
 
@@ -23,15 +23,10 @@
 
 ## 3. Установка и запуск приложения в локальном репозитории
 
-1. `https://github.com/alexpar-wd/oklab-tones.git` - клонировать репозиторий (HTTPS) на локальный компьютер
-
-2. `cd server` - перейти в каталог для API
-3. `pnpm i` или `npm i` - установить зависимости для API
-4. `pnpm dev` или `npm dev` - запустить API в режиме разработчика
-5. `cd ..` - вернуться в каталог для Frontend части проекта
-6. `pnpm i` или `npm i` - установить зависимости для Frontend
-7. `pnpm dev` или `npm dev` - запустить приложение в режиме разработчика
-8. В браузере перейти по ссылке, которую отобразит Vite. Например: `http://localhost:5173/`
+1. `https://github.com/alexpar-wd/oklab-tones-deploy.git` - клонировать репозиторий (HTTPS) на локальный компьютер
+2. `pnpm i` или `npm i` - установить зависимости
+4. `pnpm dev` или `npm dev` - запустить в режиме разработки
+5. В браузере перейти по ссылке `http://localhost:8080/`
 
 ## 4. Процесс создания
 
