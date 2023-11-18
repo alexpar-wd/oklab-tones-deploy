@@ -8,7 +8,8 @@
 
 Выбор цвета (Color Picker) сформирован на основе "[react-colorful](https://www.npmjs.com/package/react-colorful)".
 
-Деплой: [https://oklabtones.onrender.com](https://oklabtones.onrender.com)
+Деплой: [https://oklabtones.onrender.com](https://oklabtones.onrender.com) 
+<br>&emsp;&emsp;&emsp;&emsp;<sub>*страница может долго загружаться из-за особенностей работы хостинга «Render»*</sub>
 
 ## 2. Стек технологий
 
