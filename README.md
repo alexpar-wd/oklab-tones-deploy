@@ -1,6 +1,6 @@
 # Пет-проект: "OklabTones" (версия для деплоя на render.com)
 
-![Стартовый экран сайта](https://github.com/alexpar-wd/oklch-tones/assets/147814350/102474f0-b738-4500-8900-10673a44f3ba)
+![Стартовый экран сайта](screenshot.png)
 
 ## 1. Описание
 
